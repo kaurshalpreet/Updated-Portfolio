@@ -1,0 +1,87 @@
+
+/* font size for paragraph */
+p {
+    font-size: 22px;
+}
+
+/* added background Image */
+/* body {
+    background-image: url(https://i.pinimg.com/originals/b4/31/1c/b4311c17c04a3d94f05d781948a409f4.jpg);
+} */
+
+/* image set to top right */
+.image {
+  float: right;
+}
+
+.nameLink:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.nameLink {
+  color: white;
+}
+
+.col-sm-12 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.background {
+  background-color: white;
+}
+
+.footer {
+    background-color: #333;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+    border-top: 4px solid gold;
+  }
+  
+  .footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+        /* Hover effect for social media Icon */
+.fa:hover {
+    opacity: 0.7;
+}  
+  /* Set a specific color for each brand */
+  
+  /* LinkedIn */
+  .fa-linkedin {
+    background: #3B5998;
+    color: white;
+    padding: 4px;
+  }
+
+   /* facebook */
+   .fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 4px;
+  }
+
+  /* Github */
+  .fa-github {
+    background-color: black;
+    padding: 4px;
+    color: white;
+  }
+
+
+
+  /* media query set to apply padding to the image */
+  @media screen and (max-width: 993px) {
+    .image{
+      padding: 10px;
+    }
+  }
+
+
