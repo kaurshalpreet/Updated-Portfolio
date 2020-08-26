@@ -1,7 +1,7 @@
-# Responsive Portfolio
+# Updated Portfolio
 ## Description
- This project is a simple 3 HTML page project showcasing my Bio, Portfolio and Contact pages using Bootstrap. This is my first project in which I have created something from scratch using Bootstrap classes and minimum use of CSS. I have learnt a lot in this journey of creating my own Bio and Portfolio Page. [The project can be accessed at my github repository](https://github.com/kaurshalpreet/homework2)
- ![Homework Repository Screenshot](./assets/images/homeworkrepo.png)
+ This project is a simple 3 HTML page project showcasing my Bio, Portfolio and Contact pages using Bootstrap. I have learnt a lot in this journey of creating my own Bio and Portfolio Page. [The project can be accessed at my github repository](https://github.com/kaurshalpreet/Updated-Portfolio)
+ ![Repository Screenshot](./assets/images/repo.png)
 
  ---
 
@@ -15,9 +15,20 @@
 ## Getting Started
 This is 3 page HTML project consisting of index.html, portfolio.html & contact.html.
 Each page has a consistent navigation bar and a sticky footer. Each page has a link to navigate to other pages. This project utilizes bootstap classes for building html wireframe, container, rows, columns etc. 
-"About Me" is the main page about myself and has links to my LinkedIn & facebook profile.
-"Portfolio" dispalys my interests and recent projects.
-"Contact" provides option to contact me through the webpage.
+
+---
+
+"About Me" is the main page about myself and has links to my LinkedIn & Github profiles. You can also find my email address and Contact number on this page.
+
+---
+
+"Portfolio" displays my recent projects. You can find the links to my Github repositories and the Links to deployed Projects on this page.
+
+---
+
+"Contact" provides the option to contact me through the webpage.
+
+---
 
 Each page is designed to be responsive for mobile screen. Below images show the different view on  a large screen vs a small screen.
 
@@ -29,7 +40,7 @@ Each page is designed to be responsive for mobile screen. Below images show the 
 
 [The index.html page can be accessed via github page here](https://kaurshalpreet.github.io/homework2/index.html)
 
-The index.html has links to my LinkedIn, Facebook & Github profiles. You can also navigate to portfolio and contact pages.
+The index.html has links to my LinkedIn & Github profiles as well as my email address and Contact number. You can also navigate to portfolio and contact pages.
 
 ---
 
@@ -53,6 +64,7 @@ The images also display responsive behavior when viewed on small screen.
 * https://getbootstrap.com/
 * https://www.youtube.com/watch?v=5GcQtLDGXy8
 * https://www.youtube.com/watch?v=cHAcSQyvBqQ
+* https://www.google.com/
 
 
 
