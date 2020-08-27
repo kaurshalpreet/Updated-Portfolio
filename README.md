@@ -1,6 +1,7 @@
 # Updated Portfolio
 ## Description
- This project is a simple 3 HTML page project showcasing my Bio, Portfolio and Contact pages using Bootstrap. I have learnt a lot in this journey of creating my own Bio and Portfolio Page. [The project can be accessed at my github repository](https://github.com/kaurshalpreet/Updated-Portfolio)
+ This is a simple 3 HTML page application showcasing my Bio, Portfolio and Contact pages using Bootstrap. I have learnt a lot in this journey of creating my own Bio and Portfolio Page. [The project can be accessed at my github repository](https://github.com/kaurshalpreet/Updated-Portfolio)
+ 
  ![Repository Screenshot](./assets/images/repo.png)
 
  ---
@@ -13,7 +14,7 @@
 ---
 
 ## Getting Started
-This is 3 page HTML project consisting of index.html, portfolio.html & contact.html.
+This is 3 page HTML application consisting of index.html, portfolio.html & contact.html.
 Each page has a consistent navigation bar and a sticky footer. Each page has a link to navigate to other pages. This project utilizes bootstap classes for building html wireframe, container, rows, columns etc. 
 
 ---
@@ -35,7 +36,7 @@ Each page has a consistent navigation bar and a sticky footer. Each page has a l
 
 Each page is designed to be responsive for mobile screen. Below images show the different view on  a large screen vs a small screen.
 
-![Index sm & above](./assets/images/index_lg.png)  | ![Index xs](./assets/images/index_xs.jpeg) 
+![Index sm & above](./assets/images/index_lg.png)  | ![Index xs](./assets/images/index_xs.png) 
 
 ---
 
