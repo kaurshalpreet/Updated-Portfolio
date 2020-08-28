@@ -19,7 +19,7 @@ Each page has a consistent navigation bar and a sticky footer. Each page has a l
 
 ---
 
-"About Me" is the main page about myself and has links to my LinkedIn & Github profiles. You can also find my email address and Contact number on this page.
+"About Me" is the main page about myself and has links to my LinkedIn & Github profiles. There is also a link to my resume just next to Github and linkedIn icons. You need to click on the icons/images which will redirect you to my Github and linkedIn profiles and Resume. You can also find my email address and Contact number on this page.
 [About Me Page](https://kaurshalpreet.github.io/Updated-Portfolio/index.html)
 
 ---

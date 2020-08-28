@@ -56,13 +56,8 @@ p {
   
   /* LinkedIn */
   .fa-linkedin {
-    background: #3B5998;
-    color: white;
-    padding: 4px;
-  }
-
-   /* facebook */
-   .fa-facebook {
+    border-radius: 5px;
+    margin-left: 10px;
     background: #3B5998;
     color: white;
     padding: 4px;
@@ -70,9 +65,26 @@ p {
 
   /* Github */
   .fa-github {
+    border-radius: 5px;
+    margin-left: 10px;
     background-color: black;
     padding: 4px;
     color: white;
+  }
+
+  /* Resume Image */
+  .resume-img {
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 30px;
+    width: 27px;
+    background-color: black;
+    margin-bottom: 7px;
+  }
+
+  /*  Hover effect for Resume Icon  */
+  .resume-img:hover {
+    opacity: 0.5;
   }
 
 
